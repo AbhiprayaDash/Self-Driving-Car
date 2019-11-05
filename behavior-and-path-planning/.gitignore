@@ -1,0 +1,14 @@
+term3_sim*
+bosch_track1*
+build
+cmake-build-debug
+cmake-build-release
+.idea
+.ipynb_checkpoints
+
+third_party/eigen3/*
+third_party/boost
+third_party/build
+
+bazel-*
+
